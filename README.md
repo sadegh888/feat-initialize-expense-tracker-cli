@@ -2,3 +2,4 @@
 chore: configure project structure
 docs: add getting started guide
 feat: implement expense entry command
+feat: add monthly summary report
