@@ -1,5 +1,5 @@
 # feat-initialize-expense-tracker-cli
 chore: configure project structure
-docs: add getting started guide
+docs: add getting started guide 
 feat: implement expense entry command
-feat: add monthly summary report
+feat: add monthly summary  report
